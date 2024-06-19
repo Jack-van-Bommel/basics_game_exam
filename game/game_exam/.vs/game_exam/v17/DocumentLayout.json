@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jackv\\Documents\\2 School Programming\\basics_game_exam\\game\\game_exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{457815AD-78C0-A065-5CD1-CCDC561B96AD}|Assembly-CSharp.csproj|c:\\users\\jackv\\documents\\2 school programming\\basics_game_exam\\game\\game_exam\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457815AD-78C0-A065-5CD1-CCDC561B96AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{457815AD-78C0-A065-5CD1-CCDC561B96AD}|Assembly-CSharp.csproj|C:\\Users\\jackv\\Documents\\2 School Programming\\basics_game_exam\\game\\game_exam\\assets\\scripts\\end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{457815AD-78C0-A065-5CD1-CCDC561B96AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457815AD-78C0-A065-5CD1-CCDC561B96AD}|Assembly-CSharp.csproj|c:\\users\\jackv\\documents\\2 school programming\\basics_game_exam\\game\\game_exam\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457815AD-78C0-A065-5CD1-CCDC561B96AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{457815AD-78C0-A065-5CD1-CCDC561B96AD}|Assembly-CSharp.csproj|C:\\Users\\jackv\\Documents\\2 School Programming\\basics_game_exam\\game\\game_exam\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,20 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "End.cs",
               "DocumentMoniker": "C:\\Users\\jackv\\Documents\\2 School Programming\\basics_game_exam\\game\\game_exam\\Assets\\Scripts\\End.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\End.cs",
               "ToolTip": "C:\\Users\\jackv\\Documents\\2 School Programming\\basics_game_exam\\game\\game_exam\\Assets\\Scripts\\End.cs",
               "RelativeToolTip": "Assets\\Scripts\\End.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T17:23:11.206Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Movement.cs",
               "DocumentMoniker": "C:\\Users\\jackv\\Documents\\2 School Programming\\basics_game_exam\\game\\game_exam\\Assets\\Scripts\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
               "ToolTip": "C:\\Users\\jackv\\Documents\\2 School Programming\\basics_game_exam\\game\\game_exam\\Assets\\Scripts\\Movement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAIAwwDcAAAANAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAIA/wDcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T08:40:52.566Z",
               "EditorCaption": ""
